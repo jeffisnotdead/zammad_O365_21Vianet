@@ -1,5 +1,5 @@
 # zammad_O365_21Vianet
-Change Endpoints to make Zammad compatible with 21Vianet O365 Tenant
+Change Endpoints to make Zammad O365 Channel compatible with 21Vianet O365 Tenant...
 
 How to run:
 ----------
