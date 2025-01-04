@@ -1,3 +1,7 @@
+###########################################
+#Author: Jeff Ragot - Rest Solution China #
+#https://www.rest-solution.cn             #
+###########################################
 #!/bin/bash
 
 # Set the directory to search in
